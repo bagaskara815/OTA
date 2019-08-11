@@ -1,6 +1,6 @@
 {
   "forum_url": "https://t.me/redmi4xindo",
-  "url": "https://sourceforge.net/projects/nangis/files/NitrogenOS/Nitrogen-OS-P-santoni-20190809.zip/download",
+  "url": "https://sourceforge.net/projects/nangis/files/NitrogenOS/Nitrogen-OS-P-santoni-20190812.zip/download",
   "filesize": "514840000",
   "addons": [
     {
@@ -21,6 +21,6 @@
   "filename": "Nitrogen-OS-P-santoni-20190809.zip",
   "error": "false",
   "md5": "50f58b88b83f7eca8605c314c47637d2",
-  "build_date": "20190809",
-  "changelog": ""
+  "build_date": "201908012",
+  "changelog": " TEST OTA "
 }
